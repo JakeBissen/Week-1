@@ -1,0 +1,24 @@
+.em1{
+    font-family: Georgia;
+}
+.one{ 
+    font-style: italic;
+}
+
+.underline1{
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.box1{
+   width: 500px;
+    border: 2px solid black;
+    padding: 15px;
+    justify-content: center;
+    background-color: lightgrey;
+    
+}
+
+.gender{
+    font-family: 'Franklin Gothic light' ;
+}

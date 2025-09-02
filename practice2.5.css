@@ -1,0 +1,40 @@
+
+
+
+body{
+background-image: url(https://i.pinimg.com/736x/e7/96/e0/e796e00bccc064c801539089a1eb7c75.jpg);
+background-size: cover;
+
+
+}
+
+#header{ 
+color-scheme: bold;
+color: aliceblue;
+font-family: Georgia;
+font-style: oblique;
+text-size-adjust: 50%;
+text-wrap: balance;
+font-size: 68px;
+
+}
+
+.box1{
+font-family: 'Gill Sans';
+color: rgb(184, 233, 233);
+text-align: center;
+line-height: 53px;
+ font-size: 2em; /* 2 times the size of the parent element's font size */
+
+
+
+
+}
+
+.box2{ 
+font-style: italic;
+font-family: Georgia,;
+background-color: rgba(183, 146, 130, 0.6);
+color: white;
+
+}
