@@ -1,12 +1,12 @@
 *{
-   margin: 8px;
+   margin: 10px;
    padding: 0px;
 }
 
 .font-size-experiment{
    text-align: center;
     font-size: 60px;
-    font-size: 2em
+    font-size: 10em
 }
 
 .flex-container{
